@@ -4,7 +4,7 @@
       "binary.com <rohan@binary.com>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.64, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "ExtUtils::MakeMaker version 6.64, CPAN::Meta::Converter version 2.142060",
    "license" : [
       "unknown"
    ],
@@ -27,5 +27,5 @@
          "web" : "https://github.com/binary-com/perl-math-business-blackscholes-binaries"
       }
    },
-   "version" : "1.00"
+   "version" : "1.1"
 }

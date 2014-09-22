@@ -4,7 +4,7 @@ author:
   - 'binary.com <rohan@binary.com>'
 build_requires: {}
 dynamic_config: 1
-generated_by: 'ExtUtils::MakeMaker version 6.64, CPAN::Meta::Converter version 2.141170'
+generated_by: 'ExtUtils::MakeMaker version 6.64, CPAN::Meta::Converter version 2.142060'
 license: unknown
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -16,4 +16,4 @@ no_index:
     - inc
 resources:
   repository: https://github.com/binary-com/perl-math-business-blackscholes-binaries.git
-version: '1.00'
+version: '1.1'
