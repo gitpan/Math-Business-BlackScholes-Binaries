@@ -16,4 +16,4 @@ no_index:
     - inc
 resources:
   repository: https://github.com/binary-com/perl-math-business-blackscholes-binaries.git
-version: '1.1'
+version: '1.2'
